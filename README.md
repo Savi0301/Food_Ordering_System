@@ -1,5 +1,5 @@
 # Online Food Ordering System
-Database Design for Food ordering system
+Following are the assumptions made for database design 
 1. The system will store information about customer, including customer ID, name, address, 
 zip code, state, email, credit (the company may give a customer credit for canceled orders). 
 2. The system store information about types of discounts offered to customers, including 
